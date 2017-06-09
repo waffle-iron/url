@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/christickner-labs/url.png?label=ready&title=Ready)](https://waffle.io/christickner-labs/url?utm_source=badge)
 # League Url
 
 [![Build Status](https://img.shields.io/travis/thephpleague/url/master.svg?style=flat-square)](https://travis-ci.org/thephpleague/url)
